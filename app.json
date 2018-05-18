@@ -1,7 +1,7 @@
 {
   "name": "API.AIn",
   "description": "API.AI webhook tide demonstration",
-  "repository": "https://github.com/RodCrawford/Tidal",
+  "repository": "https://github.com/jeongcap/Tidal",
   "logo":"https://lmms.io/wiki/images/f/f8/Under_construction.png",
   "keywords": ["api.ai", "natural language", "tides"]
  
