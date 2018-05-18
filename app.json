@@ -4,13 +4,5 @@
   "repository": "https://github.com/RodCrawford/Tidal",
   "logo":"https://lmms.io/wiki/images/f/f8/Under_construction.png",
   "keywords": ["api.ai", "natural language", "tides"]
-  
-   "dependencies": {
-    "apiai": "^2.0.5",
-    "body-parser": "^1.15.1",
-    "express": "^4.13.4",
-    "request": "^2.72.0",
-    "uuid": "^2.0.3",
-    "future" : "^2.3.1"
-  }
+ 
 }
